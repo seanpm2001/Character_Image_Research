@@ -1,12 +1,20 @@
 
 ***
 
-### Top
+### [Top](#Top)
+
+<img alt="Character image placeholder failed to load. Click/tap here to attempt to view it" src="/CHAR-IMG-PKG.png" width="200" height="200"/>
+
+<!-- ![/CHAR-IMG-PKG.png](/CHAR-IMG-PKG.png) !-->
+
 
 # Character_Image_Research
+
 A research on my personal "character image" mental phenomenon.
 
-# Index
+# [Index](#Index)
+
+<details><summary><p><b>Click/tap here to expand/collapse the index</b></p></summary>
 
 [00.0 - Top](#Top)
 
@@ -20,15 +28,23 @@ A research on my personal "character image" mental phenomenon.
 
 > [02.0.2 - Codes](#Codes)
 
-> [02.0.3 - Effects](#Effects)
+> [02.0.3 - Still images](#Still-images)
 
-> [02.0.4 - Incompatibility](#Incompatibility)
+> [02.0.4 - Effects](#Effects)
 
-> [02.0.5 - Evil personalities](#Evil-personalities)
+> [02.0.5 - Incompatibility](#Incompatibility)
 
-> [02.0.6 - Duration](#Duration)
+> [02.0.6 - Similarity to earworms](#Similarity-to-earworms)
 
-> [02.0.7 - Questions](#Questions)
+> [02.0.7 - Evil personalities](#Evil-personalities)
+
+> [02.0.8 - Duration](#Duration)
+
+> [02.0.9 - Quantity](#Quantity)
+
+> [02.0.10 - Notable incidents](#Notable-incidents)
+
+> [02.0.11 - Questions](#Questions)
 
 [03.0 - Wiki](#Wiki)
 
@@ -62,13 +78,25 @@ A research on my personal "character image" mental phenomenon.
 
 [13.5 - End of file](#EOF)
 
+</details>
+
 ***
+
+<img alt="Psychology image placeholder failed to load. Click/tap here to attempt to view it" src="/Psychology_logo-1.png" width="200" height="200"/>
+
+## Part of a series on [`the psychology of Sean`](#Top)
+
+Unfortunately, the human mind cannot be read with current technology, so psychological problems I deal with have to be figured out on my own. These definitions are just me trying to define mental patterns, and how I work.
+
+> **Warning** Nothing on this page is medical advice or fact as of yet. I am not a doctor, therapist, psychologist, or physician. If you think you suffer from a similar problem, make sure to mention it to your therapist.
 
 ## Character images
 
 ### Overview
 
-Character images (can be shortened to: char imgs, char img, character img, char image, charimg, etc.) is a mental process my brain supports that allows easy manipulation of different characters/people/animals (fictional and real) where the personality and background is emulated to my mental set. This affects the way I do things, but most of the time only internally. Strong character images can effect me externally.
+[Not to be confused with Dissociative Identity Disorder (Also known as Multiple Personalities Disorder)](https://en.wikipedia.org/wiki/Dissociative_identity_disorder?useskin=monobook)
+
+Character images (can be shortened to: char imgs, char img, character img, char image, charimg, etc.) is a mental process my brain supports that allows easy manipulation of different characters/people/animals (fictional and real) where the personality and background is emulated to my mental set. This affects the way I do things, but most of the time only internally. Strong character images can effect me externally. It has led to severe issues twice (as of 2023, Thursday, February 2nd)
 
 It only takes a maximum of 1 minute and 50 seconds to develop a character image completely. It takes as little as 2 seconds to develop a character image.
 
@@ -78,48 +106,50 @@ It only takes a maximum of 1 minute and 50 seconds to develop a character image 
 
 Notes: The order of codes goes as such:
 
-[1] Character name [2] Category code [3] Effect level (1-8 = normal, 9-16 = medium, 17-24 = high, 25-32 = maximum effect level)
+- [ ] [1] Character name
+- [ ] [2] Category code
+- [ ] [3] Effect level (1-8 = normal, 9-16 = medium, 17-24 = high, 25-32 = maximum effect level)
 
-.ybind32 - This is an extremely rare code for maximum strength character images that only affect me internally
+- .ybind32 - This is an extremely rare code for maximum strength character images that only affect me internally
+- .nobind32 - This is a code for strong character images that affect me both internally and externally.
+- .vg - This is a category code. It is used for video game related character images
+- .ppl - This is a category code. It is used for real people related character images
+- .seas1 - This is a category code. It is used for season 1 (Spring) mood character images
+- .seas2 - This is a category code. It is used for season 2 (Summer) mood character images
+- .seas3- This is a category code. It is used for season 3 (Autumn) mood character images
+- .seas4 - This is a category code. It is used for season 4 (Winter) mood character images
+- .ctoon - This is a category code. It used for cartoons
+- .anime - This is a category code. It is used as the second code in the sequence, and is for Anime/Manga related character images
+- .other - Undefined
 
-.nobind32 - This is a code for strong character images that affect me both internally and externally.
+> **Note** **This section needs to be re-worked.**
 
-.anime - This is a category code. It is used as the second code in the sequence, and is for Anime/Manga related character images
+***
 
-.vg - This is a category code. It is used for video game related character images
+### Still images
 
-.ppl - This is a category code. It is used for real people related character images
+> **Note** I have a highly visual mind (my brain can play videos, images, and audio at any time) This may not apply to you
 
-.seas3 - This is a category code. It is used for season 3 (Autumn) mood character images
-
-**This section needs to be re-worked.**
+Most of my character images are still images.
 
 ***
 
 ### Effects
 
-Certain character images can be [incompatible](#Incompatibility) some bad side effects include:
+Certain character images can be [incompatible](#Incompatibility). some bad side effects include:
 
 * Nausea
-
 * Mental overload
-
 * Stress
-
 * Extreme discomfort
-
 * Shame
 
 Some positive side effects include:
 
 * Better mood
-
 * Being more peppy
-
 * Increased productivity
-
 * Feeling of power
-
 * Reduction of pain.
 
 ***
@@ -128,9 +158,15 @@ Some positive side effects include:
 
 When a character image is incompatible, it may put off side effects. I currently don't know how a character image becomes incompatible.
 
+***
+
+### Similarity to earworms
+
+Character images can be very similar to earworms (catchy music/audio that gets stuck in your head, and loops constantly) but instead of being an audio worm, it is an image/video worm.
+
 *** 
 
-### Evil-personalities
+### Evil personalities
 
 Evil personalities can form, but depending on your moral standards, the evil will be stripped out of it. Unfortunately, even with the evilness stripped out, character images for the worst people, such as Hitler, Stalin, etc. may form and are still not good to have active. When you get to this point, you should try to replace them with a different, less-evil character image.
 
@@ -144,15 +180,35 @@ The effect of a character image depends on its duration since the last switch. C
 
 My current longest running Character images (as of March 11th 2021)
 
-GLaDOS (Portal 2 .vg) 600+ days
+> **Note** **This section is heavily outdated**
 
-Wheatley (Portal 2 .vg) 584+ days
+<details><summary><p>Click/tap here to expand/collapse this section</p></summary>
 
-Dr. Zomboss (Plants vs. Zombies .vg) 422+ days
+- Non-existant (null .corrupt) 364+ -> 1800+ days (on and off)
+- GLaDOS (Portal 2 .vg) 600+ days (on and off)
+- Wheatley (Portal 2 .vg) 584+ days (on and off)
+- Dr. Zomboss (Plants vs. Zombies .vg) 422+ days (on and off)
+- Aqua Sama (Konosuba .anime) 4+ days (on and off)
 
-Non-existant (null .corrupt) 364+ -> 1800+ days
+</details>
 
-Aqua Sama (Konosuba .anime) 4+ days
+***
+
+### Quantity
+
+My mind has hundreds (possibly thousands) of character images, but only 6 can be active per minute. Anything over this can lead to mental overwhelming.
+
+***
+
+### Notable incidents
+
+#### 2021 March 6th (circa)
+
+Character images overwhelmed my mind and led to stability issues. This was caused by Anime viewing.
+
+#### 2023, January 29th/30th - 2023, February 2nd
+
+Character images overwhelmed my mind again, and led to mental anguish, lack of focus, severe tension, and may have caused me to vomit. This may have been caused by Anime viewing.
 
 ***
 
@@ -161,8 +217,11 @@ Aqua Sama (Konosuba .anime) 4+ days
 Current questions I have about character images:
 
 * 1. Is this very common? (probably not)
-
 * 2. Can character images be a form/be a part of [Dissociative Identity Disorder/oldterm: Multiple Personality Disorder](https://en.wikipedia.org/wiki/Dissociative_identity_disorder)?
+
+***
+
+**This is the point where the medical discussion stops. Below this line is information regarding this repository, and the current [`README.md`](/README.md) file.**
 
 ***
 
@@ -248,77 +307,90 @@ Contributing is not allowed for this project, as it is a personal project.
 
 ## About README
 
-File type: `Markdown (*.md)`
+**File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-File version: `1 (Thursday, March 11th 2021 at 3:50 pm)`
+**File version:** `2 (2023, Thursday, February 2nd at 5:34 pm PST)`
 
-Line count: `0,334`
+**Line count (including blank lines and compiler line):** `406`
 
 ***
 
 ## README version history
 
-Version 1 (Thursday, March 11th 2021 at 3:50 pm)
+<details><summary><p><b>Click/tap here to expand/collapse the version history section</b></p></summary>
+
+<details><summary><p><b>Version 1 (2021, Thursday, March 11th at 3:50 pm PST)</b></p></summary>
 
 > Changes:
 
-> * Started the file
+- [x] Started the file
+- [x] Added the title section
+- [x] Added the index
+- [x] Added the about section
+- [x] Added the Wiki section
+- [x] Added the version history section
+- [x] Added the issues section.
+- [x] Added the past issues section
+- [x] Added the past pull requests section
+- [x] Added the active pull requests section
+- [x] Added the contributors section
+- [x] Added the contributing section
+- [x] Added the about README section
+- [x] Added a software status section, with a DRM free sticker and message
+- [x] Added the resources section
+- [x] Added the character image section
+- - [x] Added the Overview subsection
+- - [x] Added the Codes subsection
+- - [x] Added the Effects subsection
+- - [x] Added the Incompatibility subsection
+- - [x] Added the Evil-personalities subsection
+- - [x] Added the Duration subsection
+- - [x] Added the Questions subsection
+- [x] Added the README version history section
+- [ ] No other changes in version 1
 
-> * Added the title section
+</details>
 
-> * Added the index
-
-> * Added the about section
-
-> * Added the Wiki section
-
-> * Added the version history section
-
-> * Added the issues section.
-
-> * Added the past issues section
-
-> * Added the past pull requests section
-
-> * Added the active pull requests section
-
-> * Added the contributors section
-
-> * Added the contributing section
-
-> * Added the about README section
-
-> * Added a software status section, with a DRM free sticker and message
-
-> * Added the resources section
-
-> * Added the character image section
-
-> > * Added the Overview subsection
-
-> > * Added the Codes subsection
-
-> > * Added the Effects subsection
-
-> > * Added the Incompatibility subsection
-
-> > * Added the Evil-personalities subsection
-
-> > * Added the Duration subsection
-
-> > * Added the Questions subsection
-
-> * Added the README version history section
-
-> * No other changes in version 1
-
-Version 2 (Coming soon)
+<details><summary><p><b>Version 2 (2023, Thursday, February 2nd at 5:34 pm PST)</b></p></summary>
 
 > Changes:
 
-> * Coming soon
+- [x] Added an image
+- [x] Collapsed and updated the index
+- [x] Updated the lead section
+- [x] Added the `Part of a series on the psychology of Sean` section
+- [x] Added the `Still images` section
+- [x] Updated the `Codes` section
+- [x] Added the `Similarity to earworms` section
+- [x] Updated the `Effects` section
+- [x] Updated the `Duration` section
+- [x] Added the `Quantity` section
+- [x] Added the `Notable incidents` section
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- [ ] No other changes in version 2
 
-> * No other changes in version 2
+</details>
+
+<details><summary><p><b>Version 3 (Coming soon)</b></p></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 3
+
+</details>
+
+<details><summary><p><b>Version 4 (Coming soon)</b></p></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 4
+
+</details>
+
+</details>
 
 ***
 
@@ -326,7 +398,7 @@ Version 2 (Coming soon)
 
 You have reached the end of this file.
 
-( [Back to top](#Top) | [Return to GitHub.com](https://github.com) | [Return to a search engine](https://safe.duckduckgo.com) )
+( [Back to top](#Top) | [Return to GitHub.com](https://github.com) | [Return to DuckDuckGo (search engine)](https://safe.duckduckgo.com) )
 
 ### EOF
 
