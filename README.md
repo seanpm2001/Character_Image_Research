@@ -26,6 +26,8 @@ A research on my personal "character image" mental phenomenon.
 
 > [02.0.1 - Overview](#Overview)
 
+> > [02.0.1.1 - What IS a character image](#What-IS-a-character-image)
+
 > [02.0.2 - Codes](#Codes)
 
 > [02.0.3 - Still images](#Still-images)
@@ -36,15 +38,43 @@ A research on my personal "character image" mental phenomenon.
 
 > [02.0.6 - Similarity to earworms](#Similarity-to-earworms)
 
-> [02.0.7 - Evil personalities](#Evil-personalities)
+> [02.0.7 - Maps and non-living objects](#Maps-and-non-living-objects)
 
-> [02.0.8 - Duration](#Duration)
+> > [02.0.7.1 - How can a non-living object have a personality](#How-can-a-non-living-object-have-a-personality)
 
-> [02.0.9 - Quantity](#Quantity)
+> [02.0.8 - Merging personalities](#Merging-personalities)
 
-> [02.0.10 - Notable incidents](#Notable-incidents)
+> [02.0.9 - List](#List)
 
-> [02.0.11 - Questions](#Questions)
+<!-- Hidden
+#### Video games
+#### People
+##### Leaders
+###### Evil leaders
+##### Environmentalists
+##### Computer Scientists and programmers
+##### Family
+##### Friends
+#### Objects
+##### War
+#### Maps
+#### Animation
+##### SpongeBob SquarePants
+##### Futurama
+##### The Simpsons
+##### Rick and Morty
+##### Anime
+!-->
+
+> [02.0.10 - Evil personalities](#Evil-personalities)
+
+> [02.0.11 - Duration](#Duration)
+
+> [02.0.12 - Quantity](#Quantity)
+
+> [02.0.13 - Notable incidents](#Notable-incidents)
+
+> [02.0.14 - Questions](#Questions)
 
 [03.0 - Wiki](#Wiki)
 
@@ -84,7 +114,7 @@ A research on my personal "character image" mental phenomenon.
 
 <img alt="Psychology image placeholder failed to load. Click/tap here to attempt to view it" src="/Psychology_logo-1.png" width="200" height="200"/>
 
-## Part of a series on [`the psychology of Sean`](#Top)
+## Part of a series on [:octocat: `the psychology of Sean`](https://github.com/seanpm2001/Seanpm2001-Psychology/)
 
 Unfortunately, the human mind cannot be read with current technology, so psychological problems I deal with have to be figured out on my own. These definitions are just me trying to define mental patterns, and how I work.
 
@@ -99,6 +129,10 @@ Unfortunately, the human mind cannot be read with current technology, so psychol
 Character images (can be shortened to: char imgs, char img, character img, char image, charimg, etc.) is a mental process my brain supports that allows easy manipulation of different characters/people/animals (fictional and real) where the personality and background is emulated to my mental set. This affects the way I do things, but most of the time only internally. Strong character images can effect me externally. It has led to severe issues twice (as of 2023, Thursday, February 2nd)
 
 It only takes a maximum of 1 minute and 50 seconds to develop a character image completely. It takes as little as 2 seconds to develop a character image.
+
+### What IS a character image
+
+I am still not sure. The following and preceeding notes will try and make sense of it.
 
 ***
 
@@ -164,6 +198,22 @@ When a character image is incompatible, it may put off side effects. I currently
 
 Character images can be very similar to earworms (catchy music/audio that gets stuck in your head, and loops constantly) but instead of being an audio worm, it is an image/video worm.
 
+***
+
+### Maps and non-living objects
+
+Despite not having a personality, a map can qualify as a character image. The same can be applied to any non-living entity.
+
+#### How can a non-living object have a personality
+
+It is typically a merging of 2 or more different entities.
+
+***
+
+### Merging personalities
+
+A mutated personality (or merged personality) is a character image made up of 2 or more character images. This is uncommon for identifiable images, but very common for character images that are not based on living entities.
+
 *** 
 
 ### Evil personalities
@@ -189,6 +239,229 @@ My current longest running Character images (as of March 11th 2021)
 - Wheatley (Portal 2 .vg) 584+ days (on and off)
 - Dr. Zomboss (Plants vs. Zombies .vg) 422+ days (on and off)
 - Aqua Sama (Konosuba .anime) 4+ days (on and off)
+
+</details>
+
+***
+
+### List
+
+A list of notable character images.
+
+> **Note** These lists are highly incomplete.
+
+<details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+#### Video games
+
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+- GLaDOS (Portal)
+- Chell (Portal)
+- Wheatley (Portal)
+- Turret (Portal)
+- Defective turret (Portal)
+- Heavy (Team Fortress 2)
+- Scout (Team Fortress 2)
+- Spy (Team Fortress 2)
+- Medic (Team Fortress 2)
+- Engineer (Team Fortress 2)
+- Pyro (Team Fortress 2)
+- Sniper (Team Fortress 2)
+- Soldier (Team Fortress 2)
+- Demoman (Team Fortress 2)
+- Ms. Pauling (Team Fortress 2)
+- Saxton Hale (Team Fortress 2)
+- Sonic (Sonic Advance)
+- Sonic (Sonic 3)
+- Level 8 mortar (Clash of Clans)
+- Scorcher (Boom Beach)
+- Bitizen (Tiny Tower)
+- Tux (Super Tux)
+- Pacman (PacMan)
+- Ghost (PacMan)
+- Dr. Zomboss (Plants vs. Zombies)
+- Peashooter (Plants vs. Zombies)
+- Sunflower (Plants vs. Zombies)
+- Repeater (Plants vs. Zombies)
+- Primal Sunflower (Plants vs. Zombies 2)
+- Narrator (Bejeweled Twist)
+- Generic Zombie (Plants vs. Zombie)
+- Red chuzzle (Chuzzles)
+- Sans (Undertale)
+- Frisk (Undertale)
+- Papyrus (Undertale)
+- Chara (Undertale)
+- Asgore (Undertale)
+- Toriel (Undertale)
+- Barbarian (Clash of Clans)
+- Archer (Clash of Clans)
+- Goblin (Clash of Clans)
+- Giant (Clash of Clans)
+- P.E.K.K.A (Clash of Clans)
+- Scorcher (Boom Beach)
+- Rifleman (Boom Beach)
+- Cave Johnson (Portal)
+- I could go on much further with this, this is less than 1%. I choose to stop here (at least for now)
+
+</details>
+
+#### People
+
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+##### Leaders
+
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+- Volodymyr Zelenskyy (Ukraine)
+- Richard Stallman (Free Software Foundation)
+- Winston Churchill (United Kingdom)
+- Barack Obama (United States of America)
+
+</details>
+
+###### Evil leaders
+
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+- Adolf Hitler (character image is banned)
+- Benito Mussolini (character image is banned)
+- Joseph Stalin (character image is banned)
+- Vladimir Putin (Vladolf Putler) (character image is banned)
+
+</details>
+
+##### Environmentalists
+
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+- Greta Thunberg ()
+- End of list
+
+</details>
+
+##### Computer Scientists and programmers
+
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+- Linus Torvalds (Linux)
+- Richard Stallman (2nd mention)
+- William Henry Gates III (Microsoft)
+- List is incomplete
+
+</details>
+
+##### Family
+
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+- [REDACTED](#REDACTED) {x5}
+
+</details>
+
+##### Friends
+
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+- [REDACTED](#REDACTED) {x10}
+
+</details>
+
+</details>
+
+#### Objects
+
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+##### War
+
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+- Tank
+- Mortar
+- Machine gun
+
+</details>
+
+#### Maps
+
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+- Russo-Ukrainian war map
+- Yemeni Civil War map (A2015)
+- Yemeni Civil War map (B2022December)
+- Yemeni Civil War map (C2023January)
+- Syrian Civil War map (A2015)
+- Syrian Civil War map (B2022December)
+- Syrian Civil War map (C2023January)
+
+</details>
+
+</details>
+
+#### Animation
+
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+##### SpongeBob SquarePants
+
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+- SpongeBob SquarePants
+- Squidward
+- Mr. Krabs
+
+</details>
+
+##### Futurama
+
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+- Bender Bending Rodriguez
+- Taranga Leela
+- Kif Kroger
+- Amy Wong
+- Hubert J. Farnsworth
+
+</details>
+
+##### The Simpsons
+
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+- Homer Simpson
+- Lisa Simpson
+- Ned Flanders
+- Sideshow Bob
+
+</details>
+
+##### Rick and Morty
+
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+- Rick Sanchez
+- Morty Smith
+- "The eyehole man"
+
+</details>
+
+##### Anime
+
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+- Aqua Sama (Konosuba)
+- Satsuki Miyanoshita (Ghost Stories)
+- Momoko Koigakubo (Ghost Stories)
+- Keiichiro Miyanoshita (Ghost Stories)
+- Sonic (Sonic X)
+- Tails (Sonic X)
+- Cream (Sonic X)
+
+</details>
+
+</details>
 
 </details>
 
@@ -305,13 +578,21 @@ Contributing is not allowed for this project, as it is a personal project.
 
 ***
 
+## REDACTED
+
+If you came here through a [[REDACTED]](#REDACTED) link, you have been properly guided. :)
+
+I had to redact some names, for privacy and involvement reasons.
+
+***
+
 ## About README
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `2 (2023, Thursday, February 2nd at 5:34 pm PST)`
+**File version:** `3 (2023, Sunday, February 5th at 8:45 pm PST)`
 
-**Line count (including blank lines and compiler line):** `406`
+**Line count (including blank lines and compiler line):** `731`
 
 ***
 
@@ -372,11 +653,37 @@ Contributing is not allowed for this project, as it is a personal project.
 
 </details>
 
-<details><summary><p><b>Version 3 (Coming soon)</b></p></summary>
+<details><summary><p><b>Version 3 (2023, Sunday, February 5th at 8:45 pm PST)</b></p></summary>
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Many article improvements
+- [x] Updated the index
+- ...
+- - [x] Added the `What IS a character image` subsection
+- [x] Added the `Maps and non-living objects` section
+- - [x] Added the `How can a non-living object have a personality` subsection
+- [x] Added the `Merging personalities` section
+- [x] Added the `List` section
+- - [x] Added the `Video games` subsection
+- - [x] Added the `People` subsection
+- - - [x] Added the `Leaders` sub-subsection
+- - - - [x] Added the `Evil leaders` sub-sub-subsection
+- - - [x] Added the `Environmentalists` sub-subsection
+- - - [x] Added the `Computer Scientists and programmers` sub-subsection
+- - - [x] Added the `Family` sub-subsection
+- - - [x] Added the `Friends` sub-subsection
+- - [x] Added the `Objects` subsection
+- - - [x] Added the `War` sub-subsection
+- - - [x] Added the `Maps` sub-subsection
+- - [x] Added the `Animation` subsection
+- - - [x] Added the `SpongeBob SquarePants` subsection
+- - - [x] Added the `Futurama` subsection
+- - - [x] Added the `The Simpsons` subsection
+- - - [x] Added the `Rick and Morty` subsection
+- - - [x] Added the `Anime` subsection
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
 - [ ] No other changes in version 3
 
 </details>
@@ -387,6 +694,24 @@ Contributing is not allowed for this project, as it is a personal project.
 
 - [ ] Coming soon
 - [ ] No other changes in version 4
+
+</details>
+
+<details><summary><p><b>Version 5 (Coming soon)</b></p></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 5
+
+</details>
+
+<details><summary><p><b>Version 6 (Coming soon)</b></p></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 6
 
 </details>
 
